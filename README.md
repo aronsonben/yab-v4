@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# YAB v4
+
+*Starting fresh yet again*
+
+### Notes
+
+* [styled-components docs](https://styled-components.com/docs/basics#installation)
+* [MDN flexbox docs](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox#the_flex_container)
+* [React Bootstrap in case I wanna give up lol](https://react-bootstrap.github.io/components/dropdowns/)
+* [Legendary React Docs](https://reactjs.org/docs/thinking-in-react.html)
+* [Some good styled-components examples](https://medium.com/building-crowdriff/styled-components-to-use-or-not-to-use-a6bb4a7ffc21)
+
+
+<br>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
